@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanjay14073
-- 👀 I’m interested in ... Web as well as app development
-- 🌱 I’m currently learning ... Backend Development
+- 👀 I’m interested in ... Web as well as app development and am passionate about Ai Ml
+- 🌱 I’m currently learning ... Backend Development in Javascript framework of node,express
 - 💞️ I’m looking to collaborate on ...any projects 
 - 📫 How to reach me ...mail me @ sanjay12anna09@gmail.com
 
