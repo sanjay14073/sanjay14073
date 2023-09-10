@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **Cab App**
 
-- 🌱 I’m currently learning **Flutter,Devops,ML**
+- 🌱 I’m currently learning **Flutter,Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanjay14073](https://github.com/sanjay14073)
 
