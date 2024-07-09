@@ -10,7 +10,9 @@ sanjay14073/sanjay14073 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
-<h3 align="center">A passionate flutter developer and aspring Software Developer from India</h3>
+<h3 align="center">
+An enthusiastic FullStack Web and Mobile Application Developer from India, as well as a Spring Software Development Professional
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay14073&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay14073" /> </p>
 
