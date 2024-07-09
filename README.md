@@ -1,7 +1,6 @@
 <!--- 👋 Hi, I’m @sanjay14073
 - 👀 I’m interested in ... full stack Web as well as app development and Ml.
-- 🌱 I’m currently learning ... Backend Development in Javascript framework of node,express
-and also working on non relational database such as mongo db.
+- 🌱 I’m currently learning ... GraphQL.
 - 💞️ I’m looking to collaborate on ...any projects 
 - 📫 How to reach me ...mail me @ sanjay12anna09@gmail.com--->
 
@@ -20,13 +19,12 @@ An enthusiastic FullStack Web and Mobile Application Developer from India, as we
 
 <p align="left"> <a href="https://twitter.com/sanjaym133" target="blank"><img src="https://img.shields.io/twitter/follow/sanjaym133?logo=twitter&style=for-the-badge" alt="sanjaym133" /></a> </p>
 
-- 🔭 I’m currently working on **Cab App**
 
-- 🌱 I’m currently learning **Flutter,Devops.**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanjay14073](https://github.com/sanjay14073)
 
-- 💬 Ask me about **Flutter,Node.js,Mongodb,Firebase,C++,DSA**
+- 💬 Ask me about **Flutter,Node.js,Mongodb,Firebase,C++,DSA,React**
 
 - 📫 How to reach me **msanjay1907@gmail.com**
 
