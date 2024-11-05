@@ -83,6 +83,9 @@
 <a href="https://twitter.com/sanjaym133" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a>
 </p>
 
+<div align="center">
+  [![Holopin badges for @sanjay14073, linking to the Holopin profile](https://holopin.me/sanjay14073)](https://holopin.io/@sanjay14073)
+</div>
 <!--Profile visit count-->
 <div align="center">
   
