@@ -77,7 +77,7 @@
 </p>
 
 <!--Holopin badges-->
-[![Holopin badges for @sanjay14073, linking to the Holopin profile](https://www.holopin.io/@sanjay14073#badges)](https://www.holopin.io/@sanjay14073#badges)
+[![An image of @sanjay14073's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanjay14073)](https://holopin.io/@sanjay14073)
 
 <!--Profile visit count-->
 <div align="center">
