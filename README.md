@@ -17,7 +17,7 @@
 <!--Intro start-->
 - 🌱 I’m currently learning **Spring Boot and GraphQL**
 - 👀 Interested in **full-stack web and mobile development**
-- 💬 Ask me about **Flutter, Node.js, MongoDB, Firebase, C++, DSA, React, and DevOps**
+- 💬 Ask me about **Flutter, Node.js, Go, MongoDB, Firebase, C++, DSA, React, and DevOps**
 - 💞️ Looking to collaborate on **open-source projects and innovative applications**
 - 📫 How to reach me: **msanjay1907@gmail.com**
 
