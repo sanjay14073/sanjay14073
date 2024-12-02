@@ -34,7 +34,7 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sanjay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay14073&theme=dark&hide_border=false" />
 </td>
 <td width="50%" align="center">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sanjay14073&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=15&hide=HTML,CSS,Makefile,Rust,CMake"/>
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sanjay14073&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=20&hide=HTML,CSS,Makefile,Rust,CMake"/>
 </td>
 </tr>
 </table>
