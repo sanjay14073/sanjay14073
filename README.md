@@ -10,7 +10,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">An enthusiastic FullStack Web and Mobile Application Developer from India!</h2></summary>
+    <summary><h2 style="display: inline-block">An enthusiastic FullStack Web and Mobile Application Developer</h2></summary>
   </ul>
 </div>
 
