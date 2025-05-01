@@ -15,9 +15,9 @@
 </div>
 
 <!--Intro start-->
-- 🌱 I’m currently learning **Spring Boot and GraphQL**
+- 🌱 I’m currently learning **Genrative AI**
 - 👀 Interested in **full-stack web and mobile development**
-- 💬 Ask me about **Flutter, Node.js, Go, MongoDB, Firebase, C++, DSA, React, and DevOps**
+- 💬 Ask me about **Python, Node.js, Go,MongoDB, Firebase, C++,Flutter,Flask,FastAPI DSA, React, and DevOps**
 - 💞️ Looking to collaborate on **open-source projects and innovative applications**
 - 📫 How to reach me: **msanjay1907@gmail.com**
 
@@ -34,7 +34,7 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sanjay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay14073&theme=dark&hide_border=false" />
 </td>
 <td width="50%" align="center">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sanjay14073&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=20&hide=HTML,CSS,Makefile,Rust,CMake"/>
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sanjay14073&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=20&hide=HTML,CSS,Makefile,Rust,CMake,dart,c++"/>
 </td>
 </tr>
 </table>
@@ -58,7 +58,7 @@
 <!--Tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,docker,golang,express,firebase,github,html,java,js,ts,mongodb,mysql,nodejs,py,react,aws,flutter,dart,postman,kotlin,bash,terraform,azure&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,docker,golang,express,firebase,github,html,java,js,ts,mongodb,mysql,nodejs,py,react,aws,flutter,dart,postman,kotlin,bash,terraform,FastAPI,flask,azure&perline=14" />
   </a>
 </p>
 
