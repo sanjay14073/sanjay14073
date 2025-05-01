@@ -17,7 +17,7 @@
 <!--Intro start-->
 - 🌱 I’m currently learning **Genrative AI**
 - 👀 Interested in **full-stack web and mobile development**
-- 💬 Ask me about **Python, Node.js, Go,MongoDB, Firebase, C++,Flutter,Flask,FastAPI DSA, React, and DevOps**
+- 💬 Ask me about **Python, Node.js, Go,MongoDB, Firebase, C++,Flutter,Flask,fastapi, DSA, React, and DevOps**
 - 💞️ Looking to collaborate on **open-source projects and innovative applications**
 - 📫 How to reach me: **msanjay1907@gmail.com**
 
@@ -58,7 +58,7 @@
 <!--Tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,docker,golang,express,firebase,github,html,java,js,ts,mongodb,mysql,nodejs,py,react,aws,flutter,dart,postman,kotlin,bash,terraform,FastAPI,flask,azure&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,docker,golang,express,firebase,github,html,java,js,ts,mongodb,mysql,nodejs,py,react,aws,flutter,dart,postman,kotlin,bash,terraform,fastapi,graphql,grafana,gin,flask,azure&perline=14" />
   </a>
 </p>
 
